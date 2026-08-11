@@ -218,7 +218,7 @@ def handle_requests():
             "Level": level,
             "Region": region,
             "status": status,
-            "Credits": "t.me/FL4SH_FF"            
+            "Credits": "t.me/TGCHATS5"            
         })
     except Exception as e:
         return jsonify({"error": str(e), "status": 0}), 500
