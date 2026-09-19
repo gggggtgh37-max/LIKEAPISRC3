@@ -16,11 +16,11 @@ app = Flask(__name__)
 
 # ✅ Valid API keys
 VALID_API_KEYS = {
-    "Hp"  # don't change warna api nhi chalega
+    "XMAX"  # don't change warna api nhi chalega
 }
 
 # 🔢 Like limit tracking
-daily_limit = 2220
+daily_limit = 200
 used_count = 0
 
 
